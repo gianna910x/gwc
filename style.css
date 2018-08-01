@@ -1,0 +1,143 @@
+body{
+	color:indianred;
+	font: normal 15px "times new roman";
+	line-height:1.3em;
+	letter-spacing: 0pt;
+	padding:0;
+	text-align:center;
+	margin:0px 685px 0px 6px;
+}
+
+a{font-weight:bold;color: #87272D; text-decoration:none}
+
+a:hover{text-decoration:underline; color:#DF8F92;}
+
+a:active, a:visited{color: #87272D;}
+
+h3{margin:0; padding:0;}
+
+#container{
+	background:#FBCFD0 url(masthead.jpg) no-repeat top left;
+	margin:0 auto;
+	padding: 250px 0 0 0;
+	position:relative;
+	width:677px;
+	text-align:left;
+}
+
+#container p{
+	margin: 0 20px;
+	padding: 5px 0
+}
+
+#intro, #supportingText{
+	width:503px;
+	background-color:#FBCFD0;
+	padding:0; margin:0
+}
+
+#pageHeader{
+	left: 55px;
+	top: 22px;
+	height: 43px;
+}
+
+#footer{
+	margin:20px 0 0 0;
+	width: 503px;
+	text-align:center;
+}
+
+#footer a{color:pink}
+
+#preamble h3{
+	display:block;
+	height: 33px;
+	width: auto;
+	margin-bottom: 5px;
+	padding-left: 50px;
+}
+
+#preamble h3 span{}
+
+#explanation h3{
+	display:block;
+	height: 33px;
+	width: auto;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	padding-left: 50px;
+}
+
+#explanation h3 span{}
+
+#participation h3{
+	display:block;
+	height: 33px;
+	width: auto;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	padding-left: 50px;
+}
+
+#participation h3 span{}
+
+#benefits h3{
+	display:block;
+	height: 33px;
+	width: auto;
+	margin-top: 15px;
+	margin-bottom: 5px;
+	padding-left: 50px;
+}
+
+#benefits h3 span{}
+
+#linkList{
+	position:absolute;
+	top: 250px;
+	margin-left: 504px;
+	padding-bottom: 306px;
+	width:170px;
+	background-color: #FBCFD0;
+}
+
+#linkList ul{
+	list-style-type:none;
+	margin:0 -10px;
+	padding:0px 0 20px 0;
+}
+
+#linkList li{
+	padding:0 0 0 28px;
+	margin-bottom: 3px;
+}
+
+#lselect a{
+	display:block;
+	padding: 7px 0 0px 0;
+	margin:0;
+}
+
+#lselect a.c{
+	display:inline;
+	color:#C89223;
+}
+
+#lselect a.c:visited{
+	color: #E6B654;
+}
+
+#larchives ul{
+	padding:7px 0 18px 0px;
+}
+
+#lresources ul{
+	padding:7px 0;
+}
+#larchives h3{
+	display:block;
+	height: 33px;
+}
+
+#larchives h3 span{}
